@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+CalculatorPro.spec
+
+# PyInstaller
+build/
+dist/
+
+# Local files
+pr_body.txt
+pr_body_correct.md
