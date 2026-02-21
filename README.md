@@ -11,7 +11,10 @@
 ## 本地运行（开发环境）
 
 ```bash
-python app.py
+# basic command-line usage (arguments are operation and two numbers):
+# add, sub, mul, div, pow
+python app.py add 2 3
+python app.py div 5 2
 ```
 
 ## 在 GitHub 上自动打包 Windows EXE（推荐）
